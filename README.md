@@ -1,5 +1,6 @@
 # Aesthetics Optimizer
 
+Click on the image to watch the live demo!
 [![Watch the video](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*xvERlzbHFaHzmXylsR-lrA.png)](https://vimeo.com/1186589109?share=copy&fl=sv&fe=ci)
 
 Personalised fMRI prediction from aesthetic image history.
