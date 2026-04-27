@@ -17,9 +17,9 @@ Trained on the [BOLD5000](https://bold5000-dataset.github.io/website/) dataset v
 aesthetic-brain/
 │
 ├── notebooks/
-│   ├── notebook_a_preprocessing.py   # Feature extraction: MobileCLIP + MobileNetV3-Small
+│   ├── notebook_a_preprocessing.py   # Feature extraction: MobileCLIP + MobileNetV3-Small   
+│   ├── results                       # multiple files
 │   └── notebook_b_training.py        # Model training, evaluation, Yeo-7 breakdown
-│
 ├── app/
 │   ├── main.py                       # PyQt6 application entry point
 │   ├── inference.py                  # Model inference pipeline
