@@ -2,6 +2,8 @@
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/8aa9936f-0460-466d-a0ce-781537061d82" />
 
+https://vimeo.com/1186589109?share=copy&fl=sv&fe=ci
+
 Personalised fMRI prediction from aesthetic image history.
 
 Given a user's ranked history of image, this system predicts the whole-brain fMRI response to a new unseen image. The architecture uses cross-attention over calibration sets of image–fMRI pairs, encoding visual semantics and low-level perceptual structure to predict activation across 1,024 DiFuMo brain parcels (Yeo-7 network breakdown included). It then uses non-gradient based optimisation approaches to optimise the aesthetics of a generative flow field, through the limbic score.
