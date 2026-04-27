@@ -1,8 +1,7 @@
 # Aesthetics Optimizer
 
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/8aa9936f-0460-466d-a0ce-781537061d82" />
-
-https://vimeo.com/1186589109?share=copy&fl=sv&fe=ci
+[![Watch the video](<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/8aa9936f-0460-466d-a0ce-781537061d82" />
+]([https://vimeo.com/your-video-id](https://vimeo.com/1186589109?share=copy&fl=sv&fe=ci))
 
 Personalised fMRI prediction from aesthetic image history.
 
